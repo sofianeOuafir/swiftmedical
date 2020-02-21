@@ -2,6 +2,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # swiftmedical
 
+End result: 
+
+![alt text](https://github.com/sofianeOuafir/swiftmedical/blob/master/Screenshot%202020-02-20%2022.22.27.png)
+![alt text](https://github.com/sofianeOuafir/swiftmedical/blob/master/Screenshot%202020-02-20%2022.22.52.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
