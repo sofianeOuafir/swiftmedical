@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# swiftmedical
+# Swift Medical
 
 Had fun doing this little project. It took me a couple of hours. 
 I have used React.js and Redux. 
