@@ -2,10 +2,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # swiftmedical
 
-End result: 
+Had fun doing this little project. It took me a couple of hours. 
+I have used React.js and Redux. 
 
-![alt text](https://github.com/sofianeOuafir/swiftmedical/blob/master/Screenshot%202020-02-20%2022.22.27.png)
-![alt text](https://github.com/sofianeOuafir/swiftmedical/blob/master/Screenshot%202020-02-20%2022.22.52.png)
+I also used some libraries for the rooting (react-router-dom) and some others for multiple reasons (see package.json)
+
+## Room for Improvement
+
+I could totally have done some refactoring and create more components. I choose not too as the app is very small and at this point reusability of components is not necessary as the specs are very simple.
 
 ## Available Scripts
 
@@ -15,8 +19,14 @@ In the project directory, you can run:
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3001](http://localhost:3001) to view it in the browser.
+(Wounds demo API runs in http://localhost:3000)
 
 The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
 
-### Make sure to run the server too
+## Make sure to run the Wounds demo API using Swagger.
+
+## End result
+
+![alt text](https://github.com/sofianeOuafir/swiftmedical/blob/master/Screenshot%202020-02-20%2022.22.27.png)
+![alt text](https://github.com/sofianeOuafir/swiftmedical/blob/master/Screenshot%202020-02-20%2022.22.43.png)
+![alt text](https://github.com/sofianeOuafir/swiftmedical/blob/master/Screenshot%202020-02-20%2022.22.52.png)
